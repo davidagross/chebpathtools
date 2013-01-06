@@ -14,7 +14,7 @@ switch computer
 end
 
 chebPrefix = 'chebfun_v';
-defaultVersion = '4.1.1864';
+defaultVersion = '4.2.2194';
 
 if nargin < 1 || (nargin == 1 && isempty(varargin{1}))
     files = flipud(dir([genFolderPath chebPrefix '*']));
