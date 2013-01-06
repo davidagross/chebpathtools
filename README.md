@@ -6,9 +6,9 @@ these functions help me deal with multiple chebfun [1] distributions as well as 
 usage
 -----
 
-My current use case for this code is simply putting changeChebfuVersion in my startup.m function.  
+My current use case for this code is simply putting changeChebfunVersion in my startup.m function.  
 This way, when MATLAB opens, I can choose which distribution I use (any of those currently on my machine
-or grab the nightly build).
+a freshly grabbed nightly build).
 
 extensible
 ----------
